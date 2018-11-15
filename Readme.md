@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomBaseTabControlViewInfo.cs](./CS/MasterDetailProject/CustomGridControl/CustomBaseTabControlViewInfo.cs) (VB: [CustomBaseTabControlViewInfo.vb](./VB/MasterDetailProject/CustomGridControl/CustomBaseTabControlViewInfo.vb))
+* [CustomGridControlClass.cs](./CS/MasterDetailProject/CustomGridControl/CustomGridControlClass.cs) (VB: [CustomGridControlClass.vb](./VB/MasterDetailProject/CustomGridControl/CustomGridControlClass.vb))
+* [CustomGridView.cs](./CS/MasterDetailProject/CustomGridControl/CustomGridView.cs) (VB: [CustomGridViewInfo.vb](./VB/MasterDetailProject/CustomGridControl/CustomGridViewInfo.vb))
+* [CustomGridViewInfo.cs](./CS/MasterDetailProject/CustomGridControl/CustomGridViewInfo.cs) (VB: [CustomGridViewInfo.vb](./VB/MasterDetailProject/CustomGridControl/CustomGridViewInfo.vb))
+* [CustomGridViewRegistrator.cs](./CS/MasterDetailProject/CustomGridControl/CustomGridViewRegistrator.cs) (VB: [CustomGridViewRegistrator.vb](./VB/MasterDetailProject/CustomGridControl/CustomGridViewRegistrator.vb))
+* [Form1.cs](./CS/MasterDetailProject/Form1.cs) (VB: [Form1.vb](./VB/MasterDetailProject/Form1.vb))
+<!-- default file list end -->
 # How to locate detail view tabs in several lines
 
 
